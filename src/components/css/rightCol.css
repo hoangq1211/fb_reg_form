@@ -1,0 +1,73 @@
+.rightCol{
+    background-color: white;
+    text-align: left; 
+    width: 410px;
+    height: 626.5px;
+    float: left;
+    margin-top: 20px;
+}
+.regText{
+    font-size: 36px; 
+    font-weight: 600; 
+    margin-bottom: 5px;
+}
+.placeHolder{
+    font-size: 18px;
+    padding: 8px 10px;
+    border-radius: 5px;
+    width: 396px;
+    margin-bottom: 10px;
+    border: 1px solid grey; 
+}
+.placeHolder2{
+    font-size: 18px;
+    padding: 8px 10px;
+    border-radius: 5px;
+    float:left; 
+    margin-bottom: 10px;
+    margin-right: 8px;
+    width: 194px;
+    border: 1px solid grey; 
+}
+.bgText{
+    font-size: 16px;
+    font-weight: bold;
+    margin: 10px 0 5px 0;
+    color: grey;
+}
+.birthdayDate{
+    font-size: 13px;
+    height: 30px;
+    padding: 5px;
+    border: 1px solid grey; 
+}
+.genderText{
+    font-size: 18px; 
+    font-weight: normal; 
+    line-height: 18px; 
+    padding: 0 10px 0 3px;
+}
+.note{
+    color:grey; 
+    font-size: 11px; 
+    width: 316px; 
+    margin: 11px 0 11px 0;
+}
+.submitButton{
+    background-color: green;
+    color: white;
+    font-size: 19px;
+    font-weight: bold;
+    min-width: 194px;
+    padding: 7px 20px;
+    text-align: center;
+    border-radius: 5px;
+}
+.note2{
+    color: #666;
+    font-size: 13px;
+    font-weight: bold;
+    margin-top: 10px;
+    padding-top: 15px;
+}
+
